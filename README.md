@@ -6,7 +6,7 @@ This project has 2 sections:
   Client
   Server
 
-Client: This side takes care of the frontend of our project
-Server: This side takes care of the backend of our project
+-Client: This side takes care of the frontend of our project
+-Server: This side takes care of the backend of our project
 
-Both the files have their own README files for better unsersatnding
+Both files have their own README files for a better understanding
