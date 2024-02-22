@@ -1,4 +1,4 @@
-# AI Content Generatior
+# AI Content Generator
 This project uses Open AI's ChatGPT to generate our content. This also includes a personalized dashboard with a subscription system to avail the generation.
 
 ## Contents
